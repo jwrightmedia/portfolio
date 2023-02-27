@@ -1,1 +1,0 @@
-Empty folder to save ACF json to.

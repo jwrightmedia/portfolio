@@ -5,7 +5,7 @@
 
 | Design Inspiration       | Branch                                                    | Link                                 |
 | :----------- | :-------------------------------------------------------- | :----------------------------------- |
-| Space | [2022](https://jwrightmedia.com/)  | [View site](http://jwrightmedia.com/) |
+| Space | [2022](https://github.com/jwrightmedia/portfolio/tree/2022)  | [View site](http://jwrightmedia.com/) |
 
 ## License
 
